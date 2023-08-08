@@ -13,7 +13,7 @@
                 <i class="fa-regular fa-bell"></i>
             </div>
             <div class="avatar">
-                <img src="assets/images/user.png" alt="Avatar">
+                <img src="{{ asset('assets/images/user.png') }}" alt="Avatar">
             </div>
         </div>
     </div>
